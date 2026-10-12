@@ -1,0 +1,9 @@
+numpy
+scipy
+PyWavelets
+neurokit2
+torch
+transformers
+datasets
+scikit-learn
+tqdm
