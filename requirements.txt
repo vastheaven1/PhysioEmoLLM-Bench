@@ -1,0 +1,11 @@
+numpy
+scipy
+PyWavelets
+neurokit2
+torch
+transformers>=4.57
+accelerate
+peft
+datasets
+scikit-learn
+tqdm
